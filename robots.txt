@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://machaojin.cn/sitemap.xml
+Sitemap: https://machaojin.cn/machaojin1917939763/sitemap.xml
